@@ -3,5 +3,10 @@ what should i include in this test file
 well, let me say, i am redoing every command i have done on git
 =======
 whats going on?
+<<<<<<< HEAD
 this has now been added whilst on the branch.
+>>>>>>> test-branch
+=======
+this has now been added whilst on the branch.thought i should add another line
+
 >>>>>>> test-branch
